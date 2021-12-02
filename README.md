@@ -1,4 +1,4 @@
-## opencv-js
+## opencv-es6
 
 opencv 4.5.4
 
