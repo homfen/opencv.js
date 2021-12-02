@@ -1,0 +1,28 @@
+{
+  "name": "opencv-es6",
+  "version": "0.0.1",
+  "description": "",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "webpack --mode production"
+  },
+  "publishConfig": {
+    "registry": "https://registry.npmjs.org"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/homfen/opencv.js.git"
+  },
+  "keywords": ["opencv", "es6"],
+  "author": "homfen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/homfen/opencv.js/issues"
+  },
+  "homepage": "https://github.com/homfen/opencv.js#readme",
+  "devDependencies": {
+    "webpack": "^5.64.4",
+    "webpack-cli": "^4.9.1"
+  }
+}
